@@ -1,2 +1,3 @@
 # coursera-test
-This is a courser test repository
+
+This is a test-site branch of courser test repository
